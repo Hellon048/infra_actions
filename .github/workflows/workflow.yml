@@ -46,4 +46,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: hellon048/hellon048/sprint16:latest
+          tags: hellon048/hellon048/sprint16:v12.10.2022
